@@ -22,13 +22,13 @@ BeautifulSoup
 
 ### Installing
 
-1.: Download Anaconda
-2.: Check if Anaconda installed Spyder
-3.: Download this repository
-4.: After download unzip-it
-5.: Put unziped file in plain site
-6.: Open file named Crtanje_Stranice_i_Upis.py
-7.: Run File
+* 1.: Download Anaconda
+* 2.: Check if Anaconda installed Spyder
+* 3.: Download this repository
+* 4.: After download unzip-it
+* 5.: Put unziped file in plain site
+* 6.: Open file named Crtanje_Stranice_i_Upis.py
+* 7.: Run File
 
 ## Built With
 
@@ -42,7 +42,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Sven Celin** - *Initial work* - [SveCelin](https://github.com/SvenCelin)
+* **Sven Celin** - *Initial work* - [SvenCelin](https://github.com/SvenCelin)
 
 
 ## License
