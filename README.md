@@ -22,13 +22,13 @@ BeautifulSoup
 
 ### Installing
 
-* 1.: Download Anaconda
-* 2.: Check if Anaconda installed Spyder
-* 3.: Download this repository
-* 4.: After download unzip-it
-* 5.: Put unziped file in plain site
-* 6.: Open file named Crtanje_Stranice_i_Upis.py
-* 7.: Run File
+* 1. Download Anaconda
+* 2. Check if Anaconda installed Spyder
+* 3. Download this repository
+* 4. After download unzip-it
+* 5. Put unziped file in plain site
+* 6. Open file named Crtanje_Stranice_i_Upis.py
+* 7. Run File
 
 ## Built With
 
