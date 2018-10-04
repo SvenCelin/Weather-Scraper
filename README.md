@@ -1,6 +1,7 @@
 # Weather Scraper
 
 Croatian weather report scraper Python 3!
+This program reads web-pages of Croatian DHMZ (Croatian meteorological institute) and saves values into database after which serves you with graphs of saved data. Program can be set up to work in background or with Windows scheduler.
 
 ## Getting Started
 
@@ -26,7 +27,7 @@ BeautifulSoup
 * Check if Anaconda installed Spyder
 * Download this repository
 * After download unzip-it
-* Put unziped file in plain site
+* Put unzipped file in plain site
 * Open file named Crtanje_Stranice_i_Upis.py
 * Run File
 
@@ -51,5 +52,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* All the girls and guys making tips and tricks tutorials on the internet
-* Programers at BeautifulSoup
+* All the girls and guys making tips and tricks tutorials on the Internet
+* Programmers at BeautifulSoup
