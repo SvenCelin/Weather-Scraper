@@ -41,33 +41,3 @@ CitamDatoteku = open("Vrijeme.txt", "r")
 Datoteka2 = CitamDatoteku.read()
 print(Datoteka2)
 CitamDatoteku.close()
-
-
-
-
-#pokusaji citanja Web stranica -nepotrebno- -ako zatreba- 
-# =============================================================================
-# 
-#pageContent=requests.get('http://meteo.hr/naslovnica_aktpod.php?tab=aktpod')
-#tree = html.fromstring(pageContent.content)
-#Temp = tree.xpath('//*[@id="table-aktualni-podaci"]/tbody/tr[35]/td[1]')
-#print(Temp)
-#
-#
-#Filtrirano = re.findall(r"<[^><]+>", Temp)
-#print(Filtrirano)
-#
-#DanasLow = TablicaRijeka.find(class_ = 'today_nowcard-temp').get_text()
-# DanasHigh = TablicaRijekaTemp.find(class_ = 'min_podaci_met').get_text()
-# 
-# #DanasMedium = TablicaRijekaTemp.find(class_ = 'today_nowcard-temp').get_text()
-# #DanasMedium= (float(DanasMedium[0:2])-32)*5/9
-# 
-# 
-# 
-# TablicaRijekaTlak = soup.find(class_ = 'today_nowcard-sidecar component panel')
-# #DanasTlak = TablicaRijekaTlak.find("").get_text()
-# 
-# print(DanasHigh)
-#
-# =============================================================================
